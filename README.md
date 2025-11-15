@@ -69,7 +69,4 @@ Stable internet connection
 
 Ruby, NodeJS, and required packages (auto‑installed)
 
-
-
-[GitHub](https://github.com)  # Link
-![Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)  # Image
+___
