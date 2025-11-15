@@ -1,24 +1,22 @@
-# Beef-Android
+## 📥 Installation
 
-## install beef
+### **1️⃣ Clone the repository**
 ```bash
 git clone https://github.com/Rakibul0909/beef.git
 ```
 
-## go to the beef folder
+### 2️⃣ Go to the Beef folder
 ```bash
 cd beef
 ```
 
-## Permission this file 
+### 3️⃣ Give execute permission
 ```bash
 chmod +x setup.sh
 ```
- ## then run this file 
+
+### 4️⃣ Run the setup script
 ```bash
 bash setup.sh
 ```
 
-
-
-then white installing and extracting 
