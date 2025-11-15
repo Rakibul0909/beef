@@ -18,3 +18,7 @@ chmod +x setup.sh
 ```bash
 bash setup.sh
 ```
+
+
+
+then white installing and extracting 
