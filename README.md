@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-Beef‑Android is a modified BeEF installation script designed specially for Android devices running Kali NetHunter or Termux.
+**Beef‑Android** is a modified BeEF installation script designed specially for Android devices running Kali NetHunter or Termux.
 Installing BeEF on Android normally creates many errors due to missing Ruby gems, dependencies, and environment issues.
 This script fixes all of them and makes BeEF run‑ready with one command. ⚡
 
