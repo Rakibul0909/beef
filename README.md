@@ -9,7 +9,7 @@ This script fixes all of them and makes BeEF run‑ready with one command. ⚡
 
 ---
 
-##🧩 What This Script Does
+## 🧩 What This Script Does
 
 ✔ Automatically installs all BeEF dependencies
 ✔ Fixes missing Ruby gems
@@ -23,21 +23,21 @@ This script fixes all of them and makes BeEF run‑ready with one command. ⚡
 
 ---
 
-##📥 Installation
+## 📥 Installation
 
-###1️⃣ Clone the repository
+### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/Rakibul0909/beef.git
 ```
-###2️⃣ Enter the folder
+### 2️⃣ Enter the folder
 ```bash
 cd beef
 ```
-###3️⃣ Make the script executable
+### 3️⃣ Make the script executable
 ```bash
 chmod +x install.sh
 ```
-###4️⃣ Run the installer
+### 4️⃣ Run the installer
 ```bash
 ./install.sh
 ```
@@ -59,7 +59,7 @@ bash beef
 
 ---
 
-🛠 Requirements
+### 🛠 Requirements
 
 Android device
 
