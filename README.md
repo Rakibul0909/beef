@@ -18,8 +18,3 @@ chmod +x setup.sh
 ```bash
 bash setup.sh
 ```
-
-
-
-
-```
