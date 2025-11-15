@@ -11,14 +11,14 @@ This script fixes all of them and makes BeEF run‑ready with one command. ⚡
 
 ## 🧩 What This Script Does
 
-> ✔ Automatically installs all BeEF dependencies
-> ✔ Fixes missing Ruby gems
- ✔ Auto‑configures necessary files
- ✔ Checks required ports
- ✔ Sets up the correct Android‑compatible environment
- ✔ Fixes common installation errors
- ✔ Makes BeEF ready to run without manual configuration
- ✔ Supports both Termux and NetHunter
+> ✔ Automatically installs all BeEF dependencies  
+> ✔ Fixes missing Ruby gems  
+> ✔ Auto‑configures necessary files  
+> ✔ Checks required ports  
+> ✔ Sets up the correct Android‑compatible environment  
+> ✔ Fixes common installation errors  
+> ✔ Makes BeEF ready to run without manual configuration  
+> ✔ Supports both Termux and NetHunter
 ---
 
 ## 📥 Installation
