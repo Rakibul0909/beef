@@ -27,7 +27,7 @@ This script fixes all of them and makes BeEF run‑ready with one command. ⚡
 
  ✔ Supports both Termux and NetHunter
 
-
+<
 ---
 
 ## 📥 Installation
