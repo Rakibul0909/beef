@@ -12,6 +12,7 @@ This script fixes all of them and makes BeEF run‑ready with one command. ⚡
 ## 🧩 What This Script Does
 
  ✔ Automatically installs all BeEF dependencies
+
  ✔ Fixes missing Ruby gems
 - ✔ Auto‑configures necessary files
 - ✔ Checks required ports
